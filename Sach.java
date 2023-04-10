@@ -65,7 +65,7 @@ public class Sach {
      
     @Override
     public String toString() {
-        return "Ma sach: " + this.maSach + ", ten nha xuat ban: " + this.nhaXuatBan + ", domn gia: " + 
+        return "Ma sach: " + this.maSach + ", ten nha xuat ban: " + this.nhaXuatBan + ", don gia: " + 
                 this.donGia + ", so luong: " + this.soLuong;
     }
 
